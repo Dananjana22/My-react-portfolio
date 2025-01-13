@@ -16,7 +16,7 @@ const Contact = () => {
             initial={{ opacity: 0, x: -100}}
             transition={{duration: 1}} 
             className="my-4">
-              709/6 Elhena Rd,Gonwala,Sapugaskanda</motion.p>
+              Colombo,Sri Lanka</motion.p>
             <motion.p
             whileInView={{ opacity: 1, x: 0}}
             initial={{ opacity: 0, x: 100}}
